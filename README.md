@@ -40,7 +40,8 @@ Instalación y Uso
 
 Clonar el repositorio:
 
-git clone https://github.com/tuusuario/ofuscador-payloads.git
+git clone https://github.com/larm182/Ofuscador_payload.git
+
 cd ofuscador-payloads
 
 Ejecutar el script:
