@@ -57,3 +57,14 @@ Guardar el payload ofuscado o ejecutarlo en memoria.
 Advertencia
 
 Este software está desarrollado con fines educativos y de investigación en ciberseguridad. El uso indebido de esta herramienta es responsabilidad exclusiva del usuario.
+
+EJEMPLO: 
+
+![1737558256551](https://github.com/user-attachments/assets/a7bf3b9e-5a18-4cb4-ae84-4b7f2a534833)
+
+![1737558256758](https://github.com/user-attachments/assets/77854cdc-2e1c-424c-851e-6b8ef067c022)
+
+![1737558256904](https://github.com/user-attachments/assets/eb39cdce-113d-4e5b-b12d-357d0e9e1e11)
+
+
+
